@@ -43,7 +43,7 @@ img {
     object-fit: cover; /* Keeps the aspect ratio without stretching */
 }
 
-.button {
+button {
     background-color:var(--CharcoalGrey);
     color: var(--White);
     border: none;
