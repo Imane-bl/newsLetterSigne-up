@@ -1,3 +1,4 @@
+###########################################
 A simple and responsive signup form project that validates email inputs using HTML, CSS, and JavaScript.
 
 Features:
